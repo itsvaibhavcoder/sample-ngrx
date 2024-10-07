@@ -28,8 +28,6 @@
     "strictInjectionParameters": true,
     "strictInputAccessModifiers": true,
     "strictTemplates": true,
-    "angularCompilerOptions": {
     "skipLibCheck": true
-  }
   }
 }
